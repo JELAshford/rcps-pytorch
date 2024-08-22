@@ -1,6 +1,6 @@
 [project]
 name = "rcps_pytorch"
-version = "0.0.1"
+version = "0.0.2"
 authors = [{ name = "James Ashford", email = "ashfordj@rocketmail.com" }]
 description = "Reverse-complement parameter sharing (RCPS) layers for machine learning on DNA sequences in PyTorch "
 readme = "README.md"
